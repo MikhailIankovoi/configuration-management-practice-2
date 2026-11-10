@@ -1,4 +1,4 @@
-package_name: busybox
-version: "1.37.0-r0"
-repository: "https://dl-cdn.alpinelinux.org/alpine/latest-stable/main/x86_64"
+package_name: 7zip
+version: "24.09-r0"
+repository: "https://mirror.opensource.iu.edu/alpine/v3.22/main/x86_64"
 test_mode: false
